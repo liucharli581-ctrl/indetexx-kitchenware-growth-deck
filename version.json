@@ -1,8 +1,8 @@
 {
-  "releaseId": "kitchenware-growth-deck-final6-2026-09-08",
-  "sourceSha": "08e36b75f6bb2433ad2fe275705e5ff523470bf4",
+  "releaseId": "kitchenware-growth-deck-final7-2026-09-08",
+  "sourceSha": "f619437fc898bde79131b5178c3bf83df565a8e6",
   "artifact": "index.html",
-  "artifactSha256": "d440b3586acc8021fa50e27cc751ef4e07fab55ef67fe2fec53ead11eb81f464",
+  "artifactSha256": "c8ee3ae9400e88e9b0b06cc18ead5a7ce1818691b6fffba9c5048f1ef8c4ca83",
   "designContractSha256": "08bbc7cd5c9cb03e7fa180cfe0ac7c0e8282c44571c083ef4051a0f7bc26d066",
-  "releasedAt": "2026-09-08T16:07:40+08:00"
+  "releasedAt": "2026-09-08T16:55:34+08:00"
 }
